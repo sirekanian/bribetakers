@@ -2,7 +2,7 @@
 
 Source: https://acf.international/bribetakers-list
 
-[![Count](https://img.shields.io/badge/count-5825-red)](https://acf.international/bribetakers-list)
+[![Count](https://img.shields.io/badge/count-5836-red)](https://acf.international/bribetakers-list)
 
 ## Usage
 
