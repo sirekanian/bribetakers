@@ -123,7 +123,7 @@
           ]
         },
         {
-          "name": "\u201cUnited Russia\u201d party Functionaries",
+          "name": "\u2018United Russia\u2019 party Functionaries",
           "lists": [
             {
               "name": "Federal and regional party leaders",
@@ -510,7 +510,7 @@
   },
   "page": "/bribetakers-list",
   "query": {},
-  "buildId": "gMTF5jEVKhPMrtkqHEowY",
+  "buildId": "MFOnAgNiVtnwMhkfXhw0_",
   "isFallback": false,
   "gsp": true,
   "customServer": true,
