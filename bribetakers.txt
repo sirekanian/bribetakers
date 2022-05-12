@@ -510,7 +510,7 @@
   },
   "page": "/bribetakers-list",
   "query": {},
-  "buildId": "MFOnAgNiVtnwMhkfXhw0_",
+  "buildId": "ttVret5rTGLkJLxAToPUs",
   "isFallback": false,
   "gsp": true,
   "customServer": true,
