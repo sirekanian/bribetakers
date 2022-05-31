@@ -8,7 +8,7 @@ output = []
 
 
 def remove_new_lines(x):
-    item[x] = item[x].replace("\n", " ").replace("  ", " ")
+    item[x] = re.sub(r' +', ' ', item[x].replace('\n', ' '))
 
 
 for filename in os.listdir('tmp'):
@@ -33,3 +33,9 @@ with open("README.md", "r") as f:
 with open("README.md", "w") as f:
     for line in lines:
         f.write(re.sub(r'/count-\d+-red', f'/count-{len(output)}-red', line))
+
+actual = len(output)
+expected = int(json.load(open('bribetakers1.txt'))['number'])
+
+result = '[OK]' if actual == expected else '[FAIL]'
+print(result + ' Actual: ' + str(actual) + ', expected: ' + str(expected))

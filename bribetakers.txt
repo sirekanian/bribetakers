@@ -528,9 +528,9 @@
     },
     "__N_SSG": true
   },
-  "page": "/bribetakers-list",
+  "page": "/list-of-war-enablers",
   "query": {},
-  "buildId": "ttVret5rTGLkJLxAToPUs",
+  "buildId": "Xj3vlbvss_o1IwnqKrdON",
   "isFallback": false,
   "gsp": true,
   "customServer": true,

@@ -1,8 +1,8 @@
 # Bribetakers and warmongers in JSON format
 
-Source: https://acf.international/bribetakers-list
+Source: https://acf.international/list-of-war-enablers
 
-[![Count](https://img.shields.io/badge/count-5961-red)](https://acf.international/bribetakers-list)
+[![Count](https://img.shields.io/badge/count-5961-red)](https://acf.international/list-of-war-enablers)
 
 ## Usage
 
