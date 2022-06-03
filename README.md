@@ -8,6 +8,13 @@ Source: https://acf.international/list-of-war-enablers
 
 ```
 ./update_docs.py
+./csv_to_json.py
+```
+
+## Usage (legacy)
+
+```
+./update_docs.py
 ./pdf_to_json.py
 ./merge.py
 ```
