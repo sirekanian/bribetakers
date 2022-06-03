@@ -7,7 +7,7 @@ Source: https://acf.international/list-of-war-enablers
 ## Usage
 
 ```
-./update_pdf.py
+./update_docs.py
 ./pdf_to_json.py
 ./merge.py
 ```

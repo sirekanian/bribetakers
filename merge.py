@@ -35,7 +35,12 @@ with open("README.md", "w") as f:
         f.write(re.sub(r'/count-\d+-red', f'/count-{len(output)}-red', line))
 
 actual = len(output)
-expected = int(json.load(open('bribetakers1.txt'))['number'])
+expected = None
+
+for doc in json.load(open('bribetakers1.txt')):
+    _, ext = os.path.splitext(doc['file'])
+    if ext == '.csv':
+        expected = doc['number']
 
 result = '[OK]' if actual == expected else '[FAIL]'
 print(result + ' Actual: ' + str(actual) + ', expected: ' + str(expected))
