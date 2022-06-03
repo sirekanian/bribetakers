@@ -13,7 +13,7 @@ def remove_new_lines(x):
 
 for filename in os.listdir('tmp'):
     for item in json.load(open('tmp/' + filename)):
-        if not item['0'].startswith('Name cyrillic'):
+        if item['0'] and not item['0'].startswith('Name cyrillic'):
             remove_new_lines('0')
             if len(item) == 1:
                 print("Skipping empty record: " + item['0'])

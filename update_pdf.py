@@ -18,7 +18,7 @@ items = []
 for group in json_document['props']['pageProps']['villainsListEN']:
     if group['name'] == 'Full sanctions list':
         for item in group['lists']:
-            if item['name'] == 'Contributors to the war':
+            if item['name'] == 'Contributors to the war, pdf':
                 items += [item]
 
 if len(items) != 1:
