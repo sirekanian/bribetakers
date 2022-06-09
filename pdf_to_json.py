@@ -10,6 +10,6 @@ os.mkdir('tmp')
 i = 1
 while True:
     print('Converting page ' + str(i))
-    tables = camelot.io.read_pdf('bribetakers.pdf', pages=str(i))
-    tables.export('tmp/bribetakers' + str(i) + '.json', f='json')
+    tables = camelot.io.read_pdf('input/data.pdf', pages=str(i))
+    tables.export('tmp/data' + str(i) + '.json', f='json')
     i += 1

@@ -7,7 +7,7 @@ import re
 
 output = []
 
-with open('bribetakers.csv') as f:
+with open('input/data.csv') as f:
     reader = csv.DictReader(f)
     for row in reader:
         for k in row:
@@ -34,7 +34,7 @@ with open('bribetakers.csv') as f:
 
 output.sort(key=lambda x: x['0'].lower())
 
-with open('bribetakers.json', 'w') as f:
+with open('list-of-war-enablers.json', 'w') as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
 with open("README.md", "r") as f:
@@ -47,7 +47,7 @@ with open("README.md", "w") as f:
 actual = len(output)
 expected = None
 
-for doc in json.load(open('bribetakers1.txt')):
+for doc in json.load(open('input/data1.txt')):
     _, ext = os.path.splitext(doc['file'])
     if ext == '.csv':
         expected = doc['number']

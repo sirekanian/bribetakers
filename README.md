@@ -21,4 +21,4 @@ Source: https://acf.international/list-of-war-enablers
 
 ## Result
 
-[bribetakers.json](https://raw.githubusercontent.com/sirekanian/bribetakers/master/bribetakers.json)
+[list-of-war-enablers.json](https://raw.githubusercontent.com/sirekanian/list-of-war-enablers/master/list-of-war-enablers.json)
