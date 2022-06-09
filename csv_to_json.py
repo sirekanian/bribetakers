@@ -18,13 +18,18 @@ with open('bribetakers.csv') as f:
             raise Exception('Wrong length of row: ' + str(row))
         if row[''] != '':
             print('[WARN] Extra column found for ' + row['Name cyrillic'])
+        tags = []
+        for t in row['Tag'].split('\n'):
+            tag = t.strip()
+            if tag:
+                tags += [tag]
         output += [{
             '0': row['Name cyrillic'],
             '1': row['Name eng'],
             '2': row['DOB'],
             '3': row['Gender'],
             '4': row['Description'],
-            '5': row['Tag'],
+            '5': tags,
         }]
 
 output.sort(key=lambda x: x['0'].lower())
