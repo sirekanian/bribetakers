@@ -2,6 +2,7 @@
 
 import json
 import os
+
 import requests
 
 os.makedirs('input', exist_ok=True)
@@ -14,7 +15,7 @@ end_index = html.find(end_string)
 json_document = json.loads(html[start_index:end_index])
 
 with open('input/data.txt', 'w') as f:
-    json.dump(json_document, f, indent=2)
+    json.dump(json_document, f, ensure_ascii=False, indent=2)
 
 docs = []
 

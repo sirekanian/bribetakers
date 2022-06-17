@@ -1,17 +1,17 @@
 [
   {
     "name": "Contributors to the war, pdf",
-    "number": 6237,
-    "file": "https://acf.international/acf-media/Full_sanctions_list_Contributors_to_the_war_oKdFwsd.pdf"
+    "number": 6274,
+    "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_NNob0Rq.pdf"
   },
   {
     "name": "Contributors to the war, xlsx",
-    "number": 6237,
-    "file": "https://acf.international/acf-media/6000_%D1%81%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B8_jZDdu5X.xlsx"
+    "number": 6274,
+    "file": "https://acf.international/acf-media/Contributors_to_the_war_xlsx_Q5g7CPR.xlsx"
   },
   {
     "name": "Contributors to the war, csv",
-    "number": 6237,
-    "file": "https://acf.international/acf-media/6000_%D1%81%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B8_%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0_03_06_2022_dU7dysk.csv"
+    "number": 6274,
+    "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_jEtXFNt.csv"
   }
 ]
