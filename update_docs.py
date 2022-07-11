@@ -7,19 +7,19 @@ import requests
 
 os.makedirs('input', exist_ok=True)
 
-html = requests.get('https://acf.international/list-of-war-enablers').text
-start_string = """<script id="__NEXT_DATA__" type="application/json">"""
-start_index = html.find(start_string) + len(start_string)
-end_string = """</script></body></html>"""
-end_index = html.find(end_string)
-json_document = json.loads(html[start_index:end_index])
-
-with open('input/data.txt', 'w') as f:
-    json.dump(json_document, f, ensure_ascii=False, indent=2)
+for locale in ['ru', 'en']:
+    html = requests.get('https://acf.international/' + locale + '/list-of-war-enablers').text
+    start_string = """<script id="__NEXT_DATA__" type="application/json">"""
+    start_index = html.find(start_string) + len(start_string)
+    end_string = """</script></body></html>"""
+    end_index = html.find(end_string)
+    json_document = json.loads(html[start_index:end_index])
+    with open('input/data-' + locale + '.txt', 'w') as f:
+        json.dump(json_document, f, ensure_ascii=False, indent=2)
 
 docs = []
 
-for group in json_document['props']['pageProps']['villainsListEN']:
+for group in json_document['props']['pageProps']['villainsList']:
     if group['name'] == 'Full sanctions list':
         for doc in group['lists']:
             if doc['name'].startswith('Contributors to the war'):
