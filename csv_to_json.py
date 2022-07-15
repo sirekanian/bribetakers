@@ -14,10 +14,8 @@ with open('input/data.csv') as f:
             if k not in {'Description', 'Tag'}:
                 row[k] = row[k].replace('\n', ' ')
             row[k] = re.sub(r' +', ' ', row[k].strip())
-        if len(row) != 7:
+        if len(row) != 6:
             raise Exception('Wrong length of row: ' + str(row))
-        if row[''] != '':
-            print('[WARN] Extra column found for ' + row['Name cyrillic'])
         tags = []
         for t in row['Tag'].split('\n'):
             tag = t.strip()
