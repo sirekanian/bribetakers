@@ -1,4 +1,8 @@
-on: workflow_dispatch
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 23 * * *'
 permissions:
   contents: write
 jobs:
@@ -12,5 +16,5 @@ jobs:
           git config user.name sirekanian
           git config user.email sirekanian@pm.me
           git add input list-of-war-enablers.json
-          git commit -m updated
+          git commit -m updated || true
           git push
