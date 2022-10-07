@@ -22,7 +22,7 @@ with open('input/data.csv') as f:
             if tag:
                 tags += [tag]
         output += [{
-            '0': row[''],
+            '0': row['Name cyrillic'],
             '1': row['Name eng'],
             '2': row['DOB'],
             '3': row['Gender'],
