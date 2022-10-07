@@ -15,6 +15,6 @@ jobs:
           ./update.sh
           git config user.name sirekanian
           git config user.email sirekanian@pm.me
-          git add input list-of-war-enablers.json
+          git add input list-of-war-enablers.json README.md
           git commit -m updated || true
           git push
