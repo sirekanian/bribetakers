@@ -25,7 +25,7 @@ for group in json_document['props']['pageProps']['villainsList']:
             if doc['name'].startswith('Contributors to the war'):
                 docs += [doc]
 
-if len(docs) != 3:
+if len(docs) != 2:
     raise Exception('Wrong number of docs: ' + str(len(docs)))
 
 with open('input/data1.txt', 'w') as f:
