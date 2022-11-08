@@ -17,13 +17,13 @@ with open('input/data.csv') as f:
         if len(row) != 6:
             raise Exception('Wrong length of row: ' + str(row))
         tags = []
-        for t in row['Tag'].split('\n'):
+        for t in row['Tags'].split('\n'):
             tag = t.strip()
             if tag:
                 tags += [tag]
         output += [{
-            '0': row['Name cyrillic'],
-            '1': row['Name eng'],
+            '0': row['Name ru'],
+            '1': row['Name en'],
             '2': row['DOB'],
             '3': row['Gender'],
             '4': row['Description'],
