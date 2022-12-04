@@ -11,7 +11,7 @@ with open('input/data.csv') as f:
     reader = csv.DictReader(f)
     for row in reader:
         for k in row:
-            if k not in {'Description', 'Tag'}:
+            if k not in {'Description', 'Tags'}:
                 row[k] = row[k].replace('\n', ' ')
             row[k] = re.sub(r' +', ' ', row[k].strip())
         if len(row) != 7:
