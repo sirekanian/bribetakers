@@ -1,12 +1,12 @@
 [
   {
     "name": "Contributors to the war, pdf",
-    "number": 6810,
-    "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_IdcppPP.pdf"
+    "number": 6823,
+    "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_zRLyanb.pdf"
   },
   {
     "name": "Contributors to the war, csv",
-    "number": 6810,
-    "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_QoALB9w.csv"
+    "number": 6823,
+    "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_Lvp70Gc.csv"
   }
 ]
