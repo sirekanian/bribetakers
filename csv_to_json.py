@@ -14,7 +14,7 @@ with open('input/data.csv') as f:
             if k not in {'Description', 'Tags'}:
                 row[k] = row[k].replace('\n', ' ')
             row[k] = re.sub(r' +', ' ', row[k].strip())
-        if len(row) != 7:
+        if len(row) != 8:
             raise Exception('Wrong length of row: ' + str(row))
         tags = []
         for t in row['Tags'].split('\n'):
