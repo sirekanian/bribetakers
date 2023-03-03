@@ -7,6 +7,8 @@ import re
 
 output = []
 
+similar_symbols = {ord(x): ord(y) for x, y in zip("LAaBCcEeHKMOoPpTXxy", "ЛАаВСсЕеНКМОоРрТХху")}
+
 with open('input/data.csv') as f:
     reader = csv.DictReader(f)
     for row in reader:
@@ -22,7 +24,7 @@ with open('input/data.csv') as f:
             if tag:
                 tags += [tag]
         output += [{
-            '0': row['Name ru'],
+            '0': row['Name ru'].translate(similar_symbols),
             '1': row['Name en'],
             '2': row['DOB'],
             '3': row['Gender'],
