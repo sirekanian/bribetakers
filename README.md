@@ -2,7 +2,7 @@
 
 Source: https://acf.international/list-of-war-enablers
 
-[![Count](https://img.shields.io/badge/count-7390-red)](https://acf.international/list-of-war-enablers)
+[![Count](https://img.shields.io/badge/count-7417-red)](https://acf.international/list-of-war-enablers)
 
 ## Usage
 
