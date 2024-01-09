@@ -22,13 +22,13 @@
           "lists": [
             {
               "name": "Сотрудники федеральных медиа",
-              "number": 380,
-              "file": "https://acf.international/acf-media/Federal_media_MTNyIzJ.pdf"
+              "number": 378,
+              "file": "https://acf.international/acf-media/Federal_media_NcHYmun.pdf"
             },
             {
               "name": "Главные редакторы и руководство региональных телеканалов",
-              "number": 149,
-              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_eO0Uapg.pdf"
+              "number": 148,
+              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_StkWYqG.pdf"
             },
             {
               "name": "Региональная пресса",
@@ -58,12 +58,17 @@
           ]
         },
         {
-          "name": "Публичные сторонники Путина",
+          "name": "Доверенные лица президента на выборах",
           "lists": [
             {
-              "name": "Доверенные лица президента на выборах",
+              "name": "Доверенные лица Путина на выборах 2018 года",
               "number": 468,
               "file": "https://acf.international/acf-media/Presidential_proxies_in_elections_S6dCHGU.pdf"
+            },
+            {
+              "name": "Доверенные лица Путина на выборах 2024 года",
+              "number": 346,
+              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections.pdf"
             }
           ]
         },
@@ -282,13 +287,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7582,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_UAbZ4Ek.pdf"
+              "number": 7815,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_kOhc5mh.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7582,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_76VJ6sb.csv"
+              "number": 7815,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_SDm0Jje.csv"
             }
           ]
         },
@@ -509,6 +514,11 @@
               "name": "Изменения от 29.12.2023",
               "number": 82,
               "file": "https://acf.international/acf-media/Changes_from_29.12.2023.pdf"
+            },
+            {
+              "name": "Изменения от 09.01.2024",
+              "number": 348,
+              "file": "https://acf.international/acf-media/Changes_from_09.01.2024.pdf"
             }
           ]
         },
@@ -522,8 +532,8 @@
             },
             {
               "name": "Отставные пособники режима",
-              "number": 464,
-              "file": "https://acf.international/acf-media/Retired_regime_collaborators_IDLKf8E.pdf"
+              "number": 461,
+              "file": "https://acf.international/acf-media/Retired_regime_collaborators_RFDb8ZP.pdf"
             }
           ]
         }

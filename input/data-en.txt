@@ -22,13 +22,13 @@
           "lists": [
             {
               "name": "Federal media",
-              "number": 380,
-              "file": "https://acf.international/acf-media/Federal_media_1rxIWXb.pdf"
+              "number": 378,
+              "file": "https://acf.international/acf-media/Federal_media_kPweivt.pdf"
             },
             {
               "name": "Chief editors and management of regional TV channels",
-              "number": 149,
-              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_Vd2vRbL.pdf"
+              "number": 148,
+              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_NuHPBPn.pdf"
             },
             {
               "name": "Regional press",
@@ -58,12 +58,17 @@
           ]
         },
         {
-          "name": "Putin’s Public Supporters",
+          "name": "Presidential proxies in elections",
           "lists": [
             {
-              "name": "Presidential proxies in elections",
+              "name": "Putin's proxies in the 2018 elections",
               "number": 468,
               "file": "https://acf.international/acf-media/Presidential_proxies_in_elections_fdBfz7d.pdf"
+            },
+            {
+              "name": "Putin's proxies in the 2024 elections",
+              "number": 346,
+              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_PUoCFIL.pdf"
             }
           ]
         },
@@ -282,13 +287,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7582,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_3tXI5M3.pdf"
+              "number": 7815,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_qgwarAh.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7582,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_kBUqUcV.csv"
+              "number": 7815,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_sIjjsL6.csv"
             }
           ]
         },
@@ -509,6 +514,11 @@
               "name": "Changes from 29.12.2023",
               "number": 82,
               "file": "https://acf.international/acf-media/Changes_from_29.12.2023_NKbISUz.pdf"
+            },
+            {
+              "name": "Changes from 09.01.2024",
+              "number": 348,
+              "file": "https://acf.international/acf-media/Changes_from_09.01.2024_hqzALNi.pdf"
             }
           ]
         },
@@ -522,8 +532,8 @@
             },
             {
               "name": "Retired regime collaborators",
-              "number": 464,
-              "file": "https://acf.international/acf-media/Retired_regime_collaborators_WAUWggj.pdf"
+              "number": 461,
+              "file": "https://acf.international/acf-media/Retired_regime_collaborators_YoIQWtG.pdf"
             }
           ]
         }
