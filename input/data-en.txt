@@ -68,7 +68,7 @@
             {
               "name": "Putin's proxies in the 2024 elections",
               "number": 346,
-              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_PUoCFIL.pdf"
+              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_VyodkXB.pdf"
             }
           ]
         },
@@ -208,7 +208,7 @@
             {
               "name": "Celebrities, influencers and bloggers",
               "number": 166,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_42jfWmj.pdf"
+              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_XsqscIk.pdf"
             },
             {
               "name": "Public supporters of Putin",
@@ -287,13 +287,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7815,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_qgwarAh.pdf"
+              "number": 7816,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_oWxZj32.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7815,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_sIjjsL6.csv"
+              "number": 7816,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_vsbfx7T.csv"
             }
           ]
         },
@@ -519,6 +519,11 @@
               "name": "Changes from 09.01.2024",
               "number": 348,
               "file": "https://acf.international/acf-media/Changes_from_09.01.2024_hqzALNi.pdf"
+            },
+            {
+              "name": "Changes from 26.01.2024",
+              "number": 80,
+              "file": "https://acf.international/acf-media/Changes_from_26.01.2024_O1Q1Utw.pdf"
             }
           ]
         },
