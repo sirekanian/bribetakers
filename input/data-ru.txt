@@ -67,8 +67,8 @@
             },
             {
               "name": "Доверенные лица Путина на выборах 2024 года",
-              "number": 346,
-              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_7kbJelS.pdf"
+              "number": 543,
+              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_vReIE6Y.pdf"
             }
           ]
         },
@@ -268,7 +268,7 @@
             {
               "name": "Топ-200 главных разжигателей войны для Европейского союза",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_rRxq8Z5.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_RRLIZvS.pdf"
             },
             {
               "name": "Финансисты войны",
@@ -287,13 +287,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7816,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_UO0TCyM.pdf"
+              "number": 7945,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_MtYwEH8.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7816,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_8AiVxVm.csv"
+              "number": 7945,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_8RSfj6j.csv"
             }
           ]
         },
@@ -524,6 +524,11 @@
               "name": "Изменения от 26.01.2024",
               "number": 80,
               "file": "https://acf.international/acf-media/Changes_from_26.01.2024.pdf"
+            },
+            {
+              "name": "Изменения от 16.02.2024",
+              "number": 287,
+              "file": "https://acf.international/acf-media/Changes_from_16.02.2024.pdf"
             }
           ]
         },
