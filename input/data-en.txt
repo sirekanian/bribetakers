@@ -62,8 +62,8 @@
           "lists": [
             {
               "name": "Putin's proxies in the 2018 elections",
-              "number": 468,
-              "file": "https://acf.international/acf-media/Presidential_proxies_in_elections_fdBfz7d.pdf"
+              "number": 544,
+              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_VLi1x5w.pdf"
             },
             {
               "name": "Putin's proxies in the 2024 elections",
@@ -182,8 +182,8 @@
           "lists": [
             {
               "name": "Judges, prosecutors, state investigators",
-              "number": 828,
-              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_zJ5Mq9Q.pdf"
+              "number": 829,
+              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_zOzyhGH.pdf"
             },
             {
               "name": "Internet censors",
@@ -263,12 +263,12 @@
             {
               "name": "Top 200 bribetakers and warmongers (UK)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_pqsJVDn.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_KoR87sg.pdf"
             },
             {
               "name": "Top 200 bribetakers and warmongers (EU)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_uNGoX0u.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_nTcl0Ni.pdf"
             },
             {
               "name": "War Financers",
@@ -278,7 +278,7 @@
             {
               "name": "Top 200 bribetakers and warmongers (US)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_OhzVCTz.pdf"
+              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_uTqgDdi.pdf"
             }
           ]
         },
@@ -287,13 +287,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7945,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_SsvgNhX.pdf"
+              "number": 7943,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_UFyHUgw.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7945,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_6LahWyv.csv"
+              "number": 7943,
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_8EnYDY1.csv"
             }
           ]
         },
@@ -529,6 +529,11 @@
               "name": "Changes from 16.02.2024",
               "number": 287,
               "file": "https://acf.international/acf-media/Changes_from_16.02.2024_ucfhHOj.pdf"
+            },
+            {
+              "name": "Charges from 01.03.2024",
+              "number": 62,
+              "file": "https://acf.international/acf-media/Charges_from_01.03.2024_dtvMmmL.pdf"
             }
           ]
         },
