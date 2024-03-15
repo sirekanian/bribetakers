@@ -67,8 +67,8 @@
             },
             {
               "name": "Putin's proxies in the 2024 elections",
-              "number": 543,
-              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_lrEPnYq.pdf"
+              "number": 544,
+              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_ixqCHai.pdf"
             }
           ]
         },
@@ -288,7 +288,7 @@
             {
               "name": "Contributors to the war, pdf",
               "number": 7943,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_UFyHUgw.pdf"
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_hi29dUL.pdf"
             },
             {
               "name": "Contributors to the war, csv",
@@ -534,6 +534,11 @@
               "name": "Charges from 01.03.2024",
               "number": 62,
               "file": "https://acf.international/acf-media/Charges_from_01.03.2024_dtvMmmL.pdf"
+            },
+            {
+              "name": "Changes from 15.03.2024",
+              "number": 60,
+              "file": "https://acf.international/acf-media/Changes_from_15.03.2024_sG9cOVk.pdf"
             }
           ]
         },

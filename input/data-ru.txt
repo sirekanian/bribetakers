@@ -67,8 +67,8 @@
             },
             {
               "name": "Доверенные лица Путина на выборах 2024 года",
-              "number": 543,
-              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_vReIE6Y.pdf"
+              "number": 544,
+              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_V91g2SB.pdf"
             }
           ]
         },
@@ -288,7 +288,7 @@
             {
               "name": "Виновники войны, pdf",
               "number": 7943,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_0otsPUd.pdf"
+              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_ciNt8wc.pdf"
             },
             {
               "name": "Виновники войны, csv",
@@ -534,6 +534,11 @@
               "name": "Изменения от 01.03.2024",
               "number": 62,
               "file": "https://acf.international/acf-media/Charges_from_01.03.2024.pdf"
+            },
+            {
+              "name": "Изменения от 15.03.2024",
+              "number": 60,
+              "file": "https://acf.international/acf-media/Changes_from_15.03.2024.pdf"
             }
           ]
         },
