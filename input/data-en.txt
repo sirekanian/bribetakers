@@ -8,12 +8,12 @@
             {
               "name": "Security council members",
               "number": 29,
-              "file": "https://acf.international/acf-media/Security_council_members_cLAtNN1.pdf"
+              "file": "https://acf.international/media/Security_council_members_cLAtNN1.pdf"
             },
             {
               "name": "Military staff and accomplices of Russian occupation",
               "number": 236,
-              "file": "https://acf.international/acf-media/Military_staff_and_accomplices_of_Russian_occupation_lDsQB8q.pdf"
+              "file": "https://acf.international/media/Military_staff_and_accomplices_of_Russian_occupation_lDsQB8q.pdf"
             }
           ]
         },
@@ -23,17 +23,17 @@
             {
               "name": "Federal media",
               "number": 378,
-              "file": "https://acf.international/acf-media/Federal_media_kPweivt.pdf"
+              "file": "https://acf.international/media/Federal_media_kPweivt.pdf"
             },
             {
               "name": "Chief editors and management of regional TV channels",
               "number": 148,
-              "file": "https://acf.international/acf-media/Chief_editors_and_management_of_regional_TV_channels_NuHPBPn.pdf"
+              "file": "https://acf.international/media/Chief_editors_and_management_of_regional_TV_channels_NuHPBPn.pdf"
             },
             {
               "name": "Regional press",
               "number": 245,
-              "file": "https://acf.international/acf-media/Regional_press_R64s6XK.pdf"
+              "file": "https://acf.international/media/Regional_press_R64s6XK.pdf"
             }
           ]
         },
@@ -43,17 +43,17 @@
             {
               "name": "Investigations subjects",
               "number": 645,
-              "file": "https://acf.international/acf-media/Investigations_subjects_IgtroQJ.pdf"
+              "file": "https://acf.international/media/Investigations_subjects_IgtroQJ.pdf"
             },
             {
               "name": "Regional investigations subjects",
               "number": 273,
-              "file": "https://acf.international/acf-media/Regional_investigations_subjects_ivukHww.pdf"
+              "file": "https://acf.international/media/Regional_investigations_subjects_ivukHww.pdf"
             },
             {
               "name": "Oligarchs",
               "number": 72,
-              "file": "https://acf.international/acf-media/Oligarchs_kESZsuY.pdf"
+              "file": "https://acf.international/media/Oligarchs_kESZsuY.pdf"
             }
           ]
         },
@@ -63,12 +63,12 @@
             {
               "name": "Putin's proxies in the 2018 elections",
               "number": 544,
-              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_VLi1x5w.pdf"
+              "file": "https://acf.international/media/Putins_proxies_in_the_2024_elections_VLi1x5w.pdf"
             },
             {
               "name": "Putin's proxies in the 2024 elections",
               "number": 544,
-              "file": "https://acf.international/acf-media/Putins_proxies_in_the_2024_elections_ixqCHai.pdf"
+              "file": "https://acf.international/media/Putins_proxies_in_the_2024_elections_ixqCHai.pdf"
             }
           ]
         },
@@ -78,7 +78,7 @@
             {
               "name": "Executive branch and presidential administration employees",
               "number": 528,
-              "file": "https://acf.international/acf-media/Executive_branch_and_presidential_administration_employees_z8JSnIy.pdf"
+              "file": "https://acf.international/media/Executive_branch_and_presidential_administration_employees_z8JSnIy.pdf"
             }
           ]
         },
@@ -88,12 +88,12 @@
             {
               "name": "State Duma",
               "number": 447,
-              "file": "https://acf.international/acf-media/State_Duma_7vJ9tGq.pdf"
+              "file": "https://acf.international/media/State_Duma_7vJ9tGq.pdf"
             },
             {
               "name": "Federation Council",
               "number": 174,
-              "file": "https://acf.international/acf-media/Federation_Council_eOHNY1i.pdf"
+              "file": "https://acf.international/media/Federation_Council_eOHNY1i.pdf"
             }
           ]
         },
@@ -103,7 +103,7 @@
             {
               "name": "Governors",
               "number": 95,
-              "file": "https://acf.international/acf-media/Governors_v7C8lFP.pdf"
+              "file": "https://acf.international/media/Governors_v7C8lFP.pdf"
             }
           ]
         },
@@ -113,12 +113,12 @@
             {
               "name": "Vice-Governors",
               "number": 747,
-              "file": "https://acf.international/acf-media/Vice-Governors_6Drziz2.pdf"
+              "file": "https://acf.international/media/Vice-Governors_6Drziz2.pdf"
             },
             {
               "name": "Speakers of the regional legislative assemblies",
               "number": 88,
-              "file": "https://acf.international/acf-media/Speakers_of_the_regional_legislative_assemblies_Nf4GthO.pdf"
+              "file": "https://acf.international/media/Speakers_of_the_regional_legislative_assemblies_Nf4GthO.pdf"
             }
           ]
         },
@@ -128,12 +128,12 @@
             {
               "name": "Central Bank employees, board members",
               "number": 32,
-              "file": "https://acf.international/acf-media/Central_Bank_employees_board_members_gJNJYHV.pdf"
+              "file": "https://acf.international/media/Central_Bank_employees_board_members_gJNJYHV.pdf"
             },
             {
               "name": "Heads of public funds",
               "number": 17,
-              "file": "https://acf.international/acf-media/Heads_of_public_funds_rZ5PnP4.pdf"
+              "file": "https://acf.international/media/Heads_of_public_funds_rZ5PnP4.pdf"
             }
           ]
         },
@@ -143,7 +143,7 @@
             {
               "name": "Federal and regional party leaders",
               "number": 321,
-              "file": "https://acf.international/acf-media/Federal_and_regional_party_leaders_IvIdJva.pdf"
+              "file": "https://acf.international/media/Federal_and_regional_party_leaders_IvIdJva.pdf"
             }
           ]
         },
@@ -153,27 +153,27 @@
             {
               "name": "Ministry of Internal Affairs",
               "number": 84,
-              "file": "https://acf.international/acf-media/Ministry_of_Internal_Affairs_2utr3nE.pdf"
+              "file": "https://acf.international/media/Ministry_of_Internal_Affairs_2utr3nE.pdf"
             },
             {
               "name": "Federal Security Services",
               "number": 80,
-              "file": "https://acf.international/acf-media/Federal_Security_Services_9jZ4qDv.pdf"
+              "file": "https://acf.international/media/Federal_Security_Services_9jZ4qDv.pdf"
             },
             {
               "name": "National Guard of Russia",
               "number": 90,
-              "file": "https://acf.international/acf-media/National_Guard_of_Russia_n7agqHe.pdf"
+              "file": "https://acf.international/media/National_Guard_of_Russia_n7agqHe.pdf"
             },
             {
               "name": "Investigative Committee of Russia",
               "number": 101,
-              "file": "https://acf.international/acf-media/Investigative_Committee_of_Russia_ayf2Qcl.pdf"
+              "file": "https://acf.international/media/Investigative_Committee_of_Russia_ayf2Qcl.pdf"
             },
             {
               "name": "Prosecutor’s Office",
               "number": 111,
-              "file": "https://acf.international/acf-media/Prosecutor_s_Office_D8Q8Vnb.pdf"
+              "file": "https://acf.international/media/Prosecutor_s_Office_D8Q8Vnb.pdf"
             }
           ]
         },
@@ -183,12 +183,12 @@
             {
               "name": "Judges, prosecutors, state investigators",
               "number": 829,
-              "file": "https://acf.international/acf-media/Judges_prosecutors_state_investigators_etc_zOzyhGH.pdf"
+              "file": "https://acf.international/media/Judges_prosecutors_state_investigators_etc_zOzyhGH.pdf"
             },
             {
               "name": "Internet censors",
               "number": 70,
-              "file": "https://acf.international/acf-media/Internet_censors_mn6wQzf.pdf"
+              "file": "https://acf.international/media/Internet_censors_mn6wQzf.pdf"
             }
           ]
         },
@@ -198,7 +198,7 @@
             {
               "name": "Heads of the Central Election Commission and local election commissions",
               "number": 112,
-              "file": "https://acf.international/acf-media/Heads_of_the_Central_Election_Commission_and_local_election_comm_K6WrXmE.pdf"
+              "file": "https://acf.international/media/Heads_of_the_Central_Election_Commission_and_local_election_comm_K6WrXmE.pdf"
             }
           ]
         },
@@ -208,12 +208,12 @@
             {
               "name": "Celebrities, influencers and bloggers",
               "number": 166,
-              "file": "https://acf.international/acf-media/Celebrities_influencers_and_bloggers_XsqscIk.pdf"
+              "file": "https://acf.international/media/Celebrities_influencers_and_bloggers_XsqscIk.pdf"
             },
             {
               "name": "Public supporters of Putin",
               "number": 115,
-              "file": "https://acf.international/acf-media/Public_supporters_of_Putin_6JXxX3W.pdf"
+              "file": "https://acf.international/media/Public_supporters_of_Putin_6JXxX3W.pdf"
             }
           ]
         },
@@ -223,27 +223,27 @@
             {
               "name": "Educators",
               "number": 314,
-              "file": "https://acf.international/acf-media/Educators_oitrYSS.pdf"
+              "file": "https://acf.international/media/Educators_oitrYSS.pdf"
             },
             {
               "name": "Artists",
               "number": 148,
-              "file": "https://acf.international/acf-media/Artists_vxriYyT.pdf"
+              "file": "https://acf.international/media/Artists_vxriYyT.pdf"
             },
             {
               "name": "Scholars",
               "number": 23,
-              "file": "https://acf.international/acf-media/Scholars_MmV8GUA.pdf"
+              "file": "https://acf.international/media/Scholars_MmV8GUA.pdf"
             },
             {
               "name": "Athletes",
               "number": 32,
-              "file": "https://acf.international/acf-media/Athletes_Dm60HOS.pdf"
+              "file": "https://acf.international/media/Athletes_Dm60HOS.pdf"
             },
             {
               "name": "Ideologists of war",
               "number": 32,
-              "file": "https://acf.international/acf-media/Ideologists_of_war_oeUeh9d.pdf"
+              "file": "https://acf.international/media/Ideologists_of_war_oeUeh9d.pdf"
             }
           ]
         },
@@ -253,7 +253,7 @@
             {
               "name": "Managers and their deputies, board members and boards of directors",
               "number": 607,
-              "file": "https://acf.international/acf-media/Managers_and_their_deputies_board_members_and_boards_of_directo_NAPjFPI.pdf"
+              "file": "https://acf.international/media/Managers_and_their_deputies_board_members_and_boards_of_directo_NAPjFPI.pdf"
             }
           ]
         },
@@ -263,22 +263,22 @@
             {
               "name": "Top 200 bribetakers and warmongers (UK)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_UK_KoR87sg.pdf"
+              "file": "https://acf.international/media/Top_200_bribetakers_and_warmongers_UK_KoR87sg.pdf"
             },
             {
               "name": "Top 200 bribetakers and warmongers (EU)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_EU_nTcl0Ni.pdf"
+              "file": "https://acf.international/media/Top_200_bribetakers_and_warmongers_EU_nTcl0Ni.pdf"
             },
             {
               "name": "War Financers",
               "number": 185,
-              "file": "https://acf.international/acf-media/War_Financers_w3LgXSa.pdf"
+              "file": "https://acf.international/media/War_Financers_w3LgXSa.pdf"
             },
             {
               "name": "Top 200 bribetakers and warmongers (US)",
               "number": 200,
-              "file": "https://acf.international/acf-media/Top_200_bribetakers_and_warmongers_US_uTqgDdi.pdf"
+              "file": "https://acf.international/media/Top_200_bribetakers_and_warmongers_US_uTqgDdi.pdf"
             }
           ]
         },
@@ -288,12 +288,12 @@
             {
               "name": "Contributors to the war, pdf",
               "number": 7943,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_pdf_hi29dUL.pdf"
+              "file": "https://acf.international/media/Contributors_to_the_war_pdf_hi29dUL.pdf"
             },
             {
               "name": "Contributors to the war, csv",
               "number": 7943,
-              "file": "https://acf.international/acf-media/Contributors_to_the_war_csv_8EnYDY1.csv"
+              "file": "https://acf.international/media/Contributors_to_the_war_csv_8EnYDY1.csv"
             }
           ]
         },
@@ -303,242 +303,242 @@
             {
               "name": "Changes from 06.05.2022",
               "number": 55,
-              "file": "https://acf.international/acf-media/List_updates_Changes_from_06.05.2022_1_XK74g0U.pdf"
+              "file": "https://acf.international/media/List_updates_Changes_from_06.05.2022_1_XK74g0U.pdf"
             },
             {
               "name": "Changes from 20.05.2022",
               "number": 166,
-              "file": "https://acf.international/acf-media/List_updates_Changes_from_20.05.2022_g9x6pPh.pdf"
+              "file": "https://acf.international/media/List_updates_Changes_from_20.05.2022_g9x6pPh.pdf"
             },
             {
               "name": "Changes from 03.06.2022",
               "number": 47,
-              "file": "https://acf.international/acf-media/List_updates_Changes_from_03.06.2022_BFj0enZ.pdf"
+              "file": "https://acf.international/media/List_updates_Changes_from_03.06.2022_BFj0enZ.pdf"
             },
             {
               "name": "Changes from 17.06.2022",
               "number": 62,
-              "file": "https://acf.international/acf-media/Changes_from_17.06.2022_pebXFn6.pdf"
+              "file": "https://acf.international/media/Changes_from_17.06.2022_pebXFn6.pdf"
             },
             {
               "name": "Changes from 01.07.2022",
               "number": 113,
-              "file": "https://acf.international/acf-media/01.07.2022_elyXuds.pdf"
+              "file": "https://acf.international/media/01.07.2022_elyXuds.pdf"
             },
             {
               "name": "Changes from 15.07.2022",
               "number": 49,
-              "file": "https://acf.international/acf-media/Changes_from_15.07.2022_EJl77wA.pdf"
+              "file": "https://acf.international/media/Changes_from_15.07.2022_EJl77wA.pdf"
             },
             {
               "name": "Changes from 29.07.2022",
               "number": 73,
-              "file": "https://acf.international/acf-media/Changes_from_29.07.2022_dGKEIyU.pdf"
+              "file": "https://acf.international/media/Changes_from_29.07.2022_dGKEIyU.pdf"
             },
             {
               "name": "Changes from 12.08.2022",
               "number": 77,
-              "file": "https://acf.international/acf-media/Changes_from_12.08.2022_85s68zE.pdf"
+              "file": "https://acf.international/media/Changes_from_12.08.2022_85s68zE.pdf"
             },
             {
               "name": "Changes from 26.08.2022",
               "number": 129,
-              "file": "https://acf.international/acf-media/Changes_from_26.08.2022_3_jrA7lTa.pdf"
+              "file": "https://acf.international/media/Changes_from_26.08.2022_3_jrA7lTa.pdf"
             },
             {
               "name": "Changes from 09.09.2022",
               "number": 63,
-              "file": "https://acf.international/acf-media/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B8_%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BA_6000_xlsx_09_09_2022_I7F9jX5.pdf"
+              "file": "https://acf.international/media/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B8_%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BA_6000_xlsx_09_09_2022_I7F9jX5.pdf"
             },
             {
               "name": "Changes from 23.09.2022",
               "number": 24,
-              "file": "https://acf.international/acf-media/Changes_from_23.09.2022_5td2yX3.pdf"
+              "file": "https://acf.international/media/Changes_from_23.09.2022_5td2yX3.pdf"
             },
             {
               "name": "Changes from 07.10.2022",
               "number": 9,
-              "file": "https://acf.international/acf-media/Changes_from_07.10.2022_QSef8f9.pdf"
+              "file": "https://acf.international/media/Changes_from_07.10.2022_QSef8f9.pdf"
             },
             {
               "name": "Changes from 21.10.2022",
               "number": 15,
-              "file": "https://acf.international/acf-media/Changes_from_21.10.2022_lMic2s1.pdf"
+              "file": "https://acf.international/media/Changes_from_21.10.2022_lMic2s1.pdf"
             },
             {
               "name": "Changes from 04.11.2022",
               "number": 16,
-              "file": "https://acf.international/acf-media/Changes_from_04.11.2022_refrV2Z.pdf"
+              "file": "https://acf.international/media/Changes_from_04.11.2022_refrV2Z.pdf"
             },
             {
               "name": "Changes from 18.11.2022",
               "number": 14,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_lrDMHCj.pdf"
+              "file": "https://acf.international/media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_lrDMHCj.pdf"
             },
             {
               "name": "Changes from 02.12.2022",
               "number": 79,
-              "file": "https://acf.international/acf-media/Changes_from_02.12.2022_fstLj9M.pdf"
+              "file": "https://acf.international/media/Changes_from_02.12.2022_fstLj9M.pdf"
             },
             {
               "name": "Changes from 16.12.2022",
               "number": 83,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_hN3744X.pdf"
+              "file": "https://acf.international/media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_hN3744X.pdf"
             },
             {
               "name": "Changes from 30.12.2022",
               "number": 41,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_30.12.2022_v4ZOOV9.pdf"
+              "file": "https://acf.international/media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_30.12.2022_v4ZOOV9.pdf"
             },
             {
               "name": "Charges from 13.01.2023",
               "number": 21,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_13.01.2023_XaLEqFV.pdf"
+              "file": "https://acf.international/media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_13.01.2023_XaLEqFV.pdf"
             },
             {
               "name": "Changes from 27.01.2023",
               "number": 6,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_27.01.2023_PPG4CgO.pdf"
+              "file": "https://acf.international/media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_27.01.2023_PPG4CgO.pdf"
             },
             {
               "name": "Changes from 10.02.2023",
               "number": 217,
-              "file": "https://acf.international/acf-media/Changes_from_10.02.2023_w05O2Rd.pdf"
+              "file": "https://acf.international/media/Changes_from_10.02.2023_w05O2Rd.pdf"
             },
             {
               "name": "Changes from 24.02.2023",
               "number": 111,
-              "file": "https://acf.international/acf-media/Changes_from_24.02.2023_lBWmYL0.pdf"
+              "file": "https://acf.international/media/Changes_from_24.02.2023_lBWmYL0.pdf"
             },
             {
               "name": "Changes from 10.03.2023",
               "number": 36,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_10.03.2023_GuQyIAr.pdf"
+              "file": "https://acf.international/media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_10.03.2023_GuQyIAr.pdf"
             },
             {
               "name": "Changes from 31.03.2023",
               "number": 28,
-              "file": "https://acf.international/acf-media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_31.03.2023_h0aeAd5.pdf"
+              "file": "https://acf.international/media/%D0%9E%D0%B1%D1%89%D0%B8%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_31.03.2023_h0aeAd5.pdf"
             },
             {
               "name": "Changes from 14.04.2023",
               "number": 22,
-              "file": "https://acf.international/acf-media/Changes_from_14.04.2023_FMBnQJ8.pdf"
+              "file": "https://acf.international/media/Changes_from_14.04.2023_FMBnQJ8.pdf"
             },
             {
               "name": "Changes from 28.04.2023",
               "number": 23,
-              "file": "https://acf.international/acf-media/Changes_from_28.04.2023_zDNmopu.pdf"
+              "file": "https://acf.international/media/Changes_from_28.04.2023_zDNmopu.pdf"
             },
             {
               "name": "Changes from 12.05.2023",
               "number": 39,
-              "file": "https://acf.international/acf-media/Changes_from_12.05.2023_orlK2WL.pdf"
+              "file": "https://acf.international/media/Changes_from_12.05.2023_orlK2WL.pdf"
             },
             {
               "name": "Changes from 26.05.2022",
               "number": 95,
-              "file": "https://acf.international/acf-media/Changes_from_26.05.2023_58sv1Et.pdf"
+              "file": "https://acf.international/media/Changes_from_26.05.2023_58sv1Et.pdf"
             },
             {
               "name": "Changes from 09.06.2023",
               "number": 117,
-              "file": "https://acf.international/acf-media/Changes_from_09.06.2023_lgutIqp.pdf"
+              "file": "https://acf.international/media/Changes_from_09.06.2023_lgutIqp.pdf"
             },
             {
               "name": "Changes from 23.06.2023",
               "number": 229,
-              "file": "https://acf.international/acf-media/Changes_from_23.06.2023_1oxJxGR.pdf"
+              "file": "https://acf.international/media/Changes_from_23.06.2023_1oxJxGR.pdf"
             },
             {
               "name": "Changes from 07.07.2023",
               "number": 63,
-              "file": "https://acf.international/acf-media/Changes_from_07.07.2023_BfELnX4.pdf"
+              "file": "https://acf.international/media/Changes_from_07.07.2023_BfELnX4.pdf"
             },
             {
               "name": "Changes from 06.05.2023",
               "number": 117,
-              "file": "https://acf.international/acf-media/Changes_from_21.07.2023_e5KKBge.pdf"
+              "file": "https://acf.international/media/Changes_from_21.07.2023_e5KKBge.pdf"
             },
             {
               "name": "Changes from 04.08.2023",
               "number": 17,
-              "file": "https://acf.international/acf-media/Changes_from_04.08.2023_Y1ru6dt.pdf"
+              "file": "https://acf.international/media/Changes_from_04.08.2023_Y1ru6dt.pdf"
             },
             {
               "name": "Changes from 18.08.2023",
               "number": 27,
-              "file": "https://acf.international/acf-media/Changes_from_18.08.2023_PmGo52n.pdf"
+              "file": "https://acf.international/media/Changes_from_18.08.2023_PmGo52n.pdf"
             },
             {
               "name": "Changes from 01.09.2023",
               "number": 80,
-              "file": "https://acf.international/acf-media/Changes_from_01.09.2023_4Lioc5g.pdf"
+              "file": "https://acf.international/media/Changes_from_01.09.2023_4Lioc5g.pdf"
             },
             {
               "name": "Changes from 15.09.2023",
               "number": 70,
-              "file": "https://acf.international/acf-media/Changes_from_15.09.2023_e6cunSi.pdf"
+              "file": "https://acf.international/media/Changes_from_15.09.2023_e6cunSi.pdf"
             },
             {
               "name": "Changes from 29.09.2023",
               "number": 89,
-              "file": "https://acf.international/acf-media/Changes_from_29.09.2023_mRGcMxq.pdf"
+              "file": "https://acf.international/media/Changes_from_29.09.2023_mRGcMxq.pdf"
             },
             {
               "name": "Changes from 13.10.2023",
               "number": 74,
-              "file": "https://acf.international/acf-media/Changes_from_13.10.2023_ag4PvKa.pdf"
+              "file": "https://acf.international/media/Changes_from_13.10.2023_ag4PvKa.pdf"
             },
             {
               "name": "Changes from 27.10.2023",
               "number": 71,
-              "file": "https://acf.international/acf-media/Changes_from_27.10.2023_DAkX6W4.pdf"
+              "file": "https://acf.international/media/Changes_from_27.10.2023_DAkX6W4.pdf"
             },
             {
               "name": "Changes from 10.11.2023",
               "number": 91,
-              "file": "https://acf.international/acf-media/Changes_from_10.11.2023_xDnZYGR.pdf"
+              "file": "https://acf.international/media/Changes_from_10.11.2023_xDnZYGR.pdf"
             },
             {
               "name": "Changes from 24.11.2023",
               "number": 45,
-              "file": "https://acf.international/acf-media/Changes_from_24.11.2023_ubrvuRN.pdf"
+              "file": "https://acf.international/media/Changes_from_24.11.2023_ubrvuRN.pdf"
             },
             {
               "name": "Changes from 15.12.2023",
               "number": 143,
-              "file": "https://acf.international/acf-media/Changes_from_15.12.2023_uJ1AhWB.pdf"
+              "file": "https://acf.international/media/Changes_from_15.12.2023_uJ1AhWB.pdf"
             },
             {
               "name": "Changes from 29.12.2023",
               "number": 82,
-              "file": "https://acf.international/acf-media/Changes_from_29.12.2023_NKbISUz.pdf"
+              "file": "https://acf.international/media/Changes_from_29.12.2023_NKbISUz.pdf"
             },
             {
               "name": "Changes from 09.01.2024",
               "number": 348,
-              "file": "https://acf.international/acf-media/Changes_from_09.01.2024_hqzALNi.pdf"
+              "file": "https://acf.international/media/Changes_from_09.01.2024_hqzALNi.pdf"
             },
             {
               "name": "Changes from 26.01.2024",
               "number": 80,
-              "file": "https://acf.international/acf-media/Changes_from_26.01.2024_O1Q1Utw.pdf"
+              "file": "https://acf.international/media/Changes_from_26.01.2024_O1Q1Utw.pdf"
             },
             {
               "name": "Changes from 16.02.2024",
               "number": 287,
-              "file": "https://acf.international/acf-media/Changes_from_16.02.2024_ucfhHOj.pdf"
+              "file": "https://acf.international/media/Changes_from_16.02.2024_ucfhHOj.pdf"
             },
             {
               "name": "Charges from 01.03.2024",
               "number": 62,
-              "file": "https://acf.international/acf-media/Charges_from_01.03.2024_dtvMmmL.pdf"
+              "file": "https://acf.international/media/Charges_from_01.03.2024_dtvMmmL.pdf"
             },
             {
               "name": "Changes from 15.03.2024",
               "number": 60,
-              "file": "https://acf.international/acf-media/Changes_from_15.03.2024_sG9cOVk.pdf"
+              "file": "https://acf.international/media/Changes_from_15.03.2024_sG9cOVk.pdf"
             }
           ]
         },
@@ -548,12 +548,12 @@
             {
               "name": "Looking for data",
               "number": 69,
-              "file": "https://acf.international/acf-media/Looking_for_data_LestrBo.pdf"
+              "file": "https://acf.international/media/Looking_for_data_LestrBo.pdf"
             },
             {
               "name": "Retired regime collaborators",
               "number": 461,
-              "file": "https://acf.international/acf-media/Retired_regime_collaborators_YoIQWtG.pdf"
+              "file": "https://acf.international/media/Retired_regime_collaborators_YoIQWtG.pdf"
             }
           ]
         }
@@ -563,7 +563,7 @@
   },
   "page": "/list-of-war-enablers",
   "query": {},
-  "buildId": "Tbi56m9pZxbf3c2Vqnk6g",
+  "buildId": "oBeEfaLdHzEeF9jFM39Dn",
   "isFallback": false,
   "gsp": true,
   "customServer": true,
