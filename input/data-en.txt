@@ -12,8 +12,8 @@
             },
             {
               "name": "Military staff and accomplices of Russian occupation",
-              "number": 236,
-              "file": "https://acf.international/media/Military_staff_and_accomplices_of_Russian_occupation_lDsQB8q.pdf"
+              "number": 237,
+              "file": "https://acf.international/media/Military_staff_and_accomplices_of_Russian_occupation.pdf"
             }
           ]
         },
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 645,
-              "file": "https://acf.international/media/Investigations_subjects_IgtroQJ.pdf"
+              "number": 649,
+              "file": "https://acf.international/media/Investigations_subjects.pdf"
             },
             {
               "name": "Regional investigations subjects",
@@ -68,7 +68,7 @@
             {
               "name": "Putin's proxies in the 2024 elections",
               "number": 544,
-              "file": "https://acf.international/media/Putins_proxies_in_the_2024_elections_ixqCHai.pdf"
+              "file": "https://acf.international/media/Putins_proxies_in_the_2024_elections.pdf"
             }
           ]
         },
@@ -287,13 +287,13 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7943,
-              "file": "https://acf.international/media/Contributors_to_the_war_pdf_hi29dUL.pdf"
+              "number": 7948,
+              "file": "https://acf.international/media/Contributors_to_the_war_pdf.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7943,
-              "file": "https://acf.international/media/Contributors_to_the_war_csv_8EnYDY1.csv"
+              "number": 7948,
+              "file": "https://acf.international/media/Contributors_to_the_war_csv.csv"
             }
           ]
         },
@@ -539,6 +539,11 @@
               "name": "Changes from 15.03.2024",
               "number": 60,
               "file": "https://acf.international/media/Changes_from_15.03.2024_sG9cOVk.pdf"
+            },
+            {
+              "name": "Changes from 29.03.2024",
+              "number": 64,
+              "file": "https://acf.international/media/Changes_from_29.03.2024.pdf"
             }
           ]
         },

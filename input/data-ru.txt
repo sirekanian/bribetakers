@@ -12,8 +12,8 @@
             },
             {
               "name": "Военнослужащие и пособники российской оккупации",
-              "number": 236,
-              "file": "https://acf.international/media/Military_staff_and_accomplices_of_Russian_occupation_qUWWZrK.pdf"
+              "number": 237,
+              "file": "https://acf.international/media/Military_staff_and_accomplices_of_Russian_occupation.pdf"
             }
           ]
         },
@@ -42,8 +42,8 @@
           "lists": [
             {
               "name": "Герои расследований",
-              "number": 645,
-              "file": "https://acf.international/media/Investigations_subjects_0n88i2A.pdf"
+              "number": 649,
+              "file": "https://acf.international/media/Investigations_subjects.pdf"
             },
             {
               "name": "Герои региональных расследований",
@@ -68,7 +68,7 @@
             {
               "name": "Доверенные лица Путина на выборах 2024 года",
               "number": 544,
-              "file": "https://acf.international/media/Putins_proxies_in_the_2024_elections_V91g2SB.pdf"
+              "file": "https://acf.international/media/Putins_proxies_in_the_2024_elections.pdf"
             }
           ]
         },
@@ -287,13 +287,13 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7943,
-              "file": "https://acf.international/media/Contributors_to_the_war_pdf_ciNt8wc.pdf"
+              "number": 7948,
+              "file": "https://acf.international/media/Contributors_to_the_war_pdf.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7943,
-              "file": "https://acf.international/media/Contributors_to_the_war_csv_SnNr4TN.csv"
+              "number": 7948,
+              "file": "https://acf.international/media/Contributors_to_the_war_csv.csv"
             }
           ]
         },
@@ -539,6 +539,11 @@
               "name": "Изменения от 15.03.2024",
               "number": 60,
               "file": "https://acf.international/media/Changes_from_15.03.2024.pdf"
+            },
+            {
+              "name": "Изменения от 29.03.2024",
+              "number": 64,
+              "file": "https://acf.international/media/Changes_from_29.03.2024.pdf"
             }
           ]
         },
