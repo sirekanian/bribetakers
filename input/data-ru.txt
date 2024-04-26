@@ -42,7 +42,7 @@
           "lists": [
             {
               "name": "Герои расследований",
-              "number": 649,
+              "number": 650,
               "file": "https://acf.international/media/Investigations_subjects.pdf"
             },
             {
@@ -53,7 +53,7 @@
             {
               "name": "Олигархи",
               "number": 72,
-              "file": "https://acf.international/media/Oligarchs_mPrLo94.pdf"
+              "file": "https://acf.international/media/Oligarchs.pdf"
             }
           ]
         },
@@ -128,7 +128,7 @@
             {
               "name": "Сотрудники Центрального банка РФ",
               "number": 32,
-              "file": "https://acf.international/media/Central_Bank_employees_board_members_SNaMqZM.pdf"
+              "file": "https://acf.international/media/Central_Bank_employees_board_members.pdf"
             },
             {
               "name": "Члены правления и руководители государственных фондов",
@@ -252,8 +252,8 @@
           "lists": [
             {
               "name": "Руководители и их замы, члены правлений и советов директоров",
-              "number": 607,
-              "file": "https://acf.international/media/Managers_and_their_deputies_board_members_and_boards_of_directo_zseEOqp.pdf"
+              "number": 602,
+              "file": "https://acf.international/media/Managers_and_their_deputies_board_members_and_boards_of_directors.pdf"
             }
           ]
         },
@@ -549,6 +549,11 @@
               "name": "Изменения от 12.04.2024",
               "number": 61,
               "file": "https://acf.international/media/Changes_from_12.04.2024.pdf"
+            },
+            {
+              "name": "Изменения от 26.04.2024",
+              "number": 119,
+              "file": "https://acf.international/media/Changes_from_26.04.2024.pdf"
             }
           ]
         },

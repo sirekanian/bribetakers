@@ -42,7 +42,7 @@
           "lists": [
             {
               "name": "Investigations subjects",
-              "number": 649,
+              "number": 650,
               "file": "https://acf.international/media/Investigations_subjects.pdf"
             },
             {
@@ -53,7 +53,7 @@
             {
               "name": "Oligarchs",
               "number": 72,
-              "file": "https://acf.international/media/Oligarchs_kESZsuY.pdf"
+              "file": "https://acf.international/media/Oligarchs.pdf"
             }
           ]
         },
@@ -128,7 +128,7 @@
             {
               "name": "Central Bank employees, board members",
               "number": 32,
-              "file": "https://acf.international/media/Central_Bank_employees_board_members_gJNJYHV.pdf"
+              "file": "https://acf.international/media/Central_Bank_employees_board_members.pdf"
             },
             {
               "name": "Heads of public funds",
@@ -252,8 +252,8 @@
           "lists": [
             {
               "name": "Managers and their deputies, board members and boards of directors",
-              "number": 607,
-              "file": "https://acf.international/media/Managers_and_their_deputies_board_members_and_boards_of_directo_NAPjFPI.pdf"
+              "number": 602,
+              "file": "https://acf.international/media/Managers_and_their_deputies_board_members_and_boards_of_directors.pdf"
             }
           ]
         },
@@ -549,6 +549,11 @@
               "name": "Changes from 12.04.2024",
               "number": 61,
               "file": "https://acf.international/media/Changes_from_12.04.2024.pdf"
+            },
+            {
+              "name": "Changes from 26.04.2024",
+              "number": 119,
+              "file": "https://acf.international/media/Changes_from_26.04.2024.pdf"
             }
           ]
         },
