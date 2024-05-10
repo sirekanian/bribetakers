@@ -52,7 +52,7 @@
             },
             {
               "name": "Олигархи",
-              "number": 72,
+              "number": 73,
               "file": "https://acf.international/media/Oligarchs.pdf"
             }
           ]
@@ -63,7 +63,7 @@
             {
               "name": "Доверенные лица Путина на выборах 2018 года",
               "number": 544,
-              "file": "https://acf.international/media/Putins_proxies_in_the_2024_elections_sUywbe1.pdf"
+              "file": "https://acf.international/media/Putins_proxies_in_the_2024_elections.pdf"
             },
             {
               "name": "Доверенные лица Путина на выборах 2024 года",
@@ -554,6 +554,11 @@
               "name": "Изменения от 26.04.2024",
               "number": 119,
               "file": "https://acf.international/media/Changes_from_26.04.2024.pdf"
+            },
+            {
+              "name": "Изменения от 10.05.2024",
+              "number": 78,
+              "file": "https://acf.international/media/Changes_from_10.05.2024.pdf"
             }
           ]
         },
@@ -578,7 +583,7 @@
   },
   "page": "/list-of-war-enablers",
   "query": {},
-  "buildId": "oBeEfaLdHzEeF9jFM39Dn",
+  "buildId": "RG625Q5iseLGRGIQIMckF",
   "isFallback": false,
   "gsp": true,
   "customServer": true,
