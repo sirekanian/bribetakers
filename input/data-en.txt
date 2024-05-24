@@ -102,8 +102,8 @@
           "lists": [
             {
               "name": "Governors",
-              "number": 95,
-              "file": "https://acf.international/media/Governors_v7C8lFP.pdf"
+              "number": 90,
+              "file": "https://acf.international/media/Governors.pdf"
             }
           ]
         },
@@ -112,8 +112,8 @@
           "lists": [
             {
               "name": "Vice-Governors",
-              "number": 747,
-              "file": "https://acf.international/media/Vice-Governors_6Drziz2.pdf"
+              "number": 743,
+              "file": "https://acf.international/media/Vice-Governors.pdf"
             },
             {
               "name": "Speakers of the regional legislative assemblies",
@@ -158,22 +158,22 @@
             {
               "name": "Federal Security Services",
               "number": 80,
-              "file": "https://acf.international/media/Federal_Security_Services_9jZ4qDv.pdf"
+              "file": "https://acf.international/media/Federal_Security_Services.pdf"
             },
             {
               "name": "National Guard of Russia",
-              "number": 90,
-              "file": "https://acf.international/media/National_Guard_of_Russia_n7agqHe.pdf"
+              "number": 88,
+              "file": "https://acf.international/media/National_Guard_of_Russia.pdf"
             },
             {
               "name": "Investigative Committee of Russia",
-              "number": 101,
-              "file": "https://acf.international/media/Investigative_Committee_of_Russia_ayf2Qcl.pdf"
+              "number": 104,
+              "file": "https://acf.international/media/Investigative_Committee_of_Russia.pdf"
             },
             {
               "name": "Prosecutor’s Office",
-              "number": 111,
-              "file": "https://acf.international/media/Prosecutor_s_Office_D8Q8Vnb.pdf"
+              "number": 109,
+              "file": "https://acf.international/media/Prosecutors_Office.pdf"
             }
           ]
         },
@@ -287,12 +287,12 @@
           "lists": [
             {
               "name": "Contributors to the war, pdf",
-              "number": 7948,
+              "number": 7966,
               "file": "https://acf.international/media/Contributors_to_the_war_pdf.pdf"
             },
             {
               "name": "Contributors to the war, csv",
-              "number": 7948,
+              "number": 7966,
               "file": "https://acf.international/media/Contributors_to_the_war_csv.csv"
             }
           ]
@@ -559,6 +559,11 @@
               "name": "Changes from 10.05.2024",
               "number": 78,
               "file": "https://acf.international/media/Changes_from_10.05.2024.pdf"
+            },
+            {
+              "name": "Changes from 24.05.2024",
+              "number": 65,
+              "file": "https://acf.international/media/Changes_from_24.05.2024.pdf"
             }
           ]
         },
@@ -572,8 +577,8 @@
             },
             {
               "name": "Retired regime collaborators",
-              "number": 461,
-              "file": "https://acf.international/media/Retired_regime_collaborators_YoIQWtG.pdf"
+              "number": 480,
+              "file": "https://acf.international/media/Retired_regime_collaborators.pdf"
             }
           ]
         }

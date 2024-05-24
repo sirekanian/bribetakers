@@ -102,8 +102,8 @@
           "lists": [
             {
               "name": "Губернаторы",
-              "number": 95,
-              "file": "https://acf.international/media/Governors_4UWwAnd.pdf"
+              "number": 90,
+              "file": "https://acf.international/media/Governors.pdf"
             }
           ]
         },
@@ -112,8 +112,8 @@
           "lists": [
             {
               "name": "Вице-губернаторы",
-              "number": 747,
-              "file": "https://acf.international/media/Vice-Governors_e6LFvDL.pdf"
+              "number": 743,
+              "file": "https://acf.international/media/Vice-Governors.pdf"
             },
             {
               "name": "Спикеры региональных Заксобраний",
@@ -158,22 +158,22 @@
             {
               "name": "ФСБ",
               "number": 80,
-              "file": "https://acf.international/media/Federal_Security_Services_U7ZSW19.pdf"
+              "file": "https://acf.international/media/Federal_Security_Services.pdf"
             },
             {
               "name": "Росгвардия",
-              "number": 90,
-              "file": "https://acf.international/media/National_Guard_of_Russia_Hgo1Xpc.pdf"
+              "number": 88,
+              "file": "https://acf.international/media/National_Guard_of_Russia.pdf"
             },
             {
               "name": "Следственный комитет",
-              "number": 101,
-              "file": "https://acf.international/media/Investigative_Committee_of_Russia_XWDjvDa.pdf"
+              "number": 104,
+              "file": "https://acf.international/media/Investigative_Committee_of_Russia.pdf"
             },
             {
               "name": "Прокуратура",
-              "number": 111,
-              "file": "https://acf.international/media/Prosecutor_s_Office_8dVZJH6.pdf"
+              "number": 109,
+              "file": "https://acf.international/media/Prosecutors_Office.pdf"
             }
           ]
         },
@@ -287,12 +287,12 @@
           "lists": [
             {
               "name": "Виновники войны, pdf",
-              "number": 7948,
+              "number": 7966,
               "file": "https://acf.international/media/Contributors_to_the_war_pdf.pdf"
             },
             {
               "name": "Виновники войны, csv",
-              "number": 7948,
+              "number": 7966,
               "file": "https://acf.international/media/Contributors_to_the_war_csv.csv"
             }
           ]
@@ -559,6 +559,11 @@
               "name": "Изменения от 10.05.2024",
               "number": 78,
               "file": "https://acf.international/media/Changes_from_10.05.2024.pdf"
+            },
+            {
+              "name": "Изменения от 24.05.2024",
+              "number": 65,
+              "file": "https://acf.international/media/Changes_from_24.05.2024.pdf"
             }
           ]
         },
@@ -572,8 +577,8 @@
             },
             {
               "name": "Отставные пособники режима",
-              "number": 461,
-              "file": "https://acf.international/media/Retired_regime_collaborators_RFDb8ZP.pdf"
+              "number": 480,
+              "file": "https://acf.international/media/Retired_regime_collaborators.pdf"
             }
           ]
         }
